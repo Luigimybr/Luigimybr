@@ -20,28 +20,24 @@ Geração de Inconsistências Fiscais
 
 📝 Description: Mapped, automated, and generated fiscal inconsistencies for the Municipality of Curitiba, focusing on verifying various types of taxes and tax rates.
 🛠️ Technologies Used: ASP.NET, SQL Server, C#, jQuery
-📂 Repository: [Link to the project repository]
 Geração de Relatórios NFSE
 
 📝 Description: Asynchronously generated more than 150,000 characters of invoice reports for the Municipality of Curitiba.
 🛠️ Technologies Used: ASP.NET, SQL Server, C#, jQuery
-📂 Repository: [Link to the project repository]
 Proteção de Dados com Criptografia
 
 📝 Description: Implemented cryptography techniques to protect data and transactions.
 🛠️ Technologies Used: C#, .NET, ASP.NET, SQL Server, jQuery
-📂 Repository: [Link to the project repository]
 Atualização e Mapeamento de Processos Internos de Aplicação Herdada
 
 📝 Description: Updated and mapped internal processes of a legacy application, modernizing it from a system developed in 2003 to a more contemporary programming language.
 🛠️ Technologies Used: C#, ASP.NET, SQL Server
-📂 Repository: [Link to the project repository]
 Feel free to explore the repositories linked above for more information about each project.
 
 Contact
 I am open to job opportunities, collaborations, and discussions about interesting projects. You can reach me through the following options:
 
 ✉️ Email: Luigimy@hotmail.com
-💼 LinkedIn: LinkedIn Profile
+💼 LinkedIn: https://www.linkedin.com/in/luigi-yamauchi-26164723b/
 
 Feel free to explore my profile for more information about my experience and projects. Thank you for visiting!
