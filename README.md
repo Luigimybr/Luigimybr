@@ -1,4 +1,6 @@
 Luigi Moraes Yamauchi
+
+
 Introduction
 Hello! Welcome to my GitHub profile. I'm Luigi Moraes Yamauchi, and I'm excited to share my work and skills with you. I am a passionate software developer with expertise in various programming languages, including C#, .NET, ASP.NET, JavaScript, Angular, TypeScript, Java, Python, and React. Additionally, I have experience with databases such as MongoDB, SQL Server, MySQL, Oracle, and PostgreSQL. I also have a deep understanding of accounting and tax regulations at the municipal, federal, and state levels.
 
